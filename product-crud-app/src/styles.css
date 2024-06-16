@@ -1,0 +1,50 @@
+/* styles.css */
+
+#showfoam {
+    margin: 200px;
+  }
+  
+  #showfoam button {
+    padding: 8px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    bottom: '10px';
+
+  }
+  
+  #showfoam button:hover {
+    background-color: #296caf;
+  }
+  
+  #showfoam .product-form {
+    margin-top: 10px;
+  }
+  
+  /* Add more styles as needed */
+
+  /*for root*/
+
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif; /* Change font family to Arial */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: Consolas, monospace; /* Change font family to Consolas */
+  }
+  
+  /* Additional styles */
+  h1 {
+    color: #b24848; /* Change heading color */
+  }
+  
+  p {
+    line-height: 2; /* Increase line height for paragraphs */
+  }
+  
+  /* Add more custom styles as needed */
+  
